@@ -1,5 +1,5 @@
 # Repository for Text Emotion Detector Application
-
+## employing the Watson NLP library
 Change to project directory
 ```
 cd final_project
